@@ -1,0 +1,1 @@
+export { default as MarketplaceComponent } from './Marketplace.component';

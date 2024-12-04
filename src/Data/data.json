@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone X",
+      "description": "Latest flagship smartphone with advanced features",
+      "price": 999.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixlib=rb-4.0.3",
+      "stock": 50,
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Laptop Pro",
+      "description": "High-performance laptop for professionals", 
+      "price": 1499.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?ixlib=rb-4.0.3",
+      "stock": 30,
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "name": "Wireless Headphones",
+      "description": "Premium noise-cancelling wireless headphones",
+      "price": 299.99,
+      "category": "Audio",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?ixlib=rb-4.0.3",
+      "stock": 100,
+      "rating": 4.3
+    },
+    {
+      "id": 4,
+      "name": "Smart Watch",
+      "description": "Feature-rich smartwatch with health tracking",
+      "price": 249.99,
+      "category": "Wearables",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3",
+      "stock": 75,
+      "rating": 4.2
+    },
+    {
+      "id": 5,
+      "name": "Tablet Mini",
+      "description": "Compact tablet perfect for entertainment",
+      "price": 399.99,
+      "category": "Electronics",
+      "image": "https://images.unsplash.com/photo-1542751110-97427bbecf20?ixlib=rb-4.0.3",
+      "stock": 60,
+      "rating": 4.6
+    }
+  ]
+}
